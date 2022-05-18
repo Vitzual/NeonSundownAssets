@@ -19,5 +19,5 @@ This repository is not always up-to-date with the latest assets from Neon Sundow
 Gravit is a vector design tool I've been using for Vectorio and Neon Sundown. You can find out more about it with the links below. I've had great success with using this tool thus far, but if you wish to use something else you can!
 
 **Gravit Versions**
-- [Free Version](https://www.designer.io/en/offers/freegravit/)
+- [Free Online Version](https://www.designer.io/en/offers/freegravit/)
 - [Paid Version](https://www.designer.io/en/)
